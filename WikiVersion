@@ -1,7 +1,7 @@
 #python
 #really better quine with help from a friend
 #apparently the same as the Wikipedia example
-x = 'x = %r\nprint(x%%x)'
+x = 'x = %r\nprint (x%%x)'
 print (x%x)
 
 #python is really beautiful and simple.
