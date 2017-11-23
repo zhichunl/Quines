@@ -1,8 +1,3 @@
-#python
-#really better quine with help from a friend
-#apparently the same as the Wikipedia example
+# Signature Python Quine
 x = 'x = %r\nprint (x%%x)'
 print (x%x)
-
-#python is really beautiful and simple.
-#need to learn string formatting better. 
